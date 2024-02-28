@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+
+        android:layout_weight="1"
+        android:id="@+id/textView2"
+
+        android:background="@color/green"
+        android:text="@string/text_view_text"
+        android:textSize="@dimen/text_view_dimension"
+        />
+
+    <EditText
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:layout_weight="2"
+        android:id="@+id/editText2"
+
+        android:background="@color/red"
+        android:hint="@string/all_edit_text_text"
+        android:textSize="@dimen/edit_text_dimension"
+        />
+    <Button
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:layout_weight="2"
+        android:id="@+id/button2"
+        android:textAlignment="center"
+
+        android:text="@string/all_button_text"
+        android:backgroundTint="@color/red"
+        android:textSize="@dimen/button_text_dimension"
+        />
+    <ImageView
+        android:layout_height="200dp"
+        android:layout_width="fill_parent"
+        android:layout_weight="2"
+        android:id="@+id/image2"
+
+        android:src="@drawable/first_svg_file"
+        />
+</LinearLayout>

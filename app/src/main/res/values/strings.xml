@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Practice_2_mirea</string>
+    <string name="all_button_text">Press</string>
+    <string name="all_edit_text_text">Input something</string>
+    <string name="text_view_text">Hello world!</string>
+
+
+    <string name="str_order_congratulation">Вы приобрели: </string>
+    <string name="str_customer_introduction">Что бы вы хотели приобрести?</string>
+    <string name="str_customer_introduction_hint">Наименование товара</string>
+    <string name="str_choose_the_amount_button_text">Выбрать количество</string>
+    <string name="str_input_the_amount">Введите количество товара</string>
+    <string name="str_input_the_amount_hint">Количество товара</string>
+    <string name="str_buy_button_text">Заказать</string>
+    <string name="str_clean_button_text">Очистить</string>
+    <string name="str_chosen_good_warning">Наименование выбранного товара:</string>
+
+
+
+</resources>

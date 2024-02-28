@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_text_dimension">20sp</dimen>
+    <dimen name="edit_text_dimension">15sp</dimen>
+    <dimen name="text_view_dimension">12sp</dimen>
+</resources>
